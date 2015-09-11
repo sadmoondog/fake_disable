@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_disable_openerp_online_disable_openerp_online,disable_openerp_online.disable_openerp_online,model_disable_openerp_online_disable_openerp_online,,1,0,0,0
